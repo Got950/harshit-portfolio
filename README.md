@@ -117,10 +117,9 @@ Quick steps:
 3. Import your repository on [Vercel](https://vercel.com)
 4. Deploy with default settings
 
-For detailed instructions, see the deployment guides:
+For detailed instructions, see:
 - `📌_READ_ME_FIRST.txt` - Quick deployment guide
-- `START_HERE_DEPLOY.md` - Comprehensive deployment instructions
-- `QUICK_DEPLOY_GUIDE.md` - Alternative methods
+- `DEPLOYMENT.md` - Comprehensive deployment documentation
 
 ## License
 
