@@ -104,7 +104,7 @@ Portfolio Type: Next.js 14 + React + Three.js
 
 Just follow the 3 steps above and your portfolio will be live!
 
-For more details, see: START_HERE_DEPLOY.md
+For more details, see: DEPLOYMENT.md or DEPLOYMENT_CHECKLIST.md
 
 Good luck! 🎉
 
