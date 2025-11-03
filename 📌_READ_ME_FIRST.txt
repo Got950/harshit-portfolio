@@ -1,0 +1,110 @@
+================================================================================
+                  🎯 DEPLOY YOUR PORTFOLIO - SIMPLE STEPS 🎯
+================================================================================
+
+Your portfolio is ready to deploy! Follow these EXACT steps:
+
+================================================================================
+                    METHOD 1: VERCEL (Recommended - 5 min)
+================================================================================
+
+STEP 1: Create GitHub Repository
+---------------------------------
+1. Go to: https://github.com/new
+2. Repository name: harshit-portfolio
+3. Make it: PUBLIC ✓
+4. DO NOT check any boxes (no README, no .gitignore)
+5. Click "Create repository"
+
+STEP 2: Push Your Code to GitHub
+---------------------------------
+In PowerShell, run these commands:
+
+    git remote add origin https://github.com/Got950/harshit-portfolio.git
+    git branch -M main
+    git push -u origin main
+
+(If it asks for credentials, use your GitHub username and a Personal Access Token.
+ Get one here: https://github.com/settings/tokens)
+
+STEP 3: Deploy on Vercel
+-------------------------
+1. Go to: https://vercel.com
+2. Sign up/Login with GitHub
+3. Click "Add New Project"
+4. Find and select: Got950/harshit-portfolio
+5. Click "Import"
+6. Click "Deploy"
+7. Wait 2-3 minutes
+
+DONE! Your site will be live at: https://harshit-portfolio.vercel.app
+================================================================================
+
+
+================================================================================
+                      METHOD 2: NETLIFY (Alternative)
+================================================================================
+
+1. Go to: https://app.netlify.com
+2. Sign up with GitHub
+3. Click "Add new site" → "Import an existing project"
+4. Select GitHub repository: Got950/harshit-portfolio
+5. Build settings:
+   - Build command: npm run build
+   - Publish directory: .next
+6. Click "Deploy"
+
+Your site will be: https://harshit-portfolio.netlify.app
+================================================================================
+
+
+================================================================================
+                         AUTO-DEPLOYMENT SETUP
+================================================================================
+
+After first deployment via GitHub:
+- Every time you run: git push
+- Vercel/Netlify automatically deploys your changes!
+- Your site updates in ~2 minutes
+
+================================================================================
+
+
+================================================================================
+                              YOUR LINKS
+================================================================================
+
+GitHub Repository: https://github.com/Got950
+Live Site (after deployment): https://harshit-portfolio.vercel.app
+Portfolio Type: Next.js 14 + React + Three.js
+
+================================================================================
+
+
+================================================================================
+                          WHAT'S ALREADY DONE ✓
+================================================================================
+
+✓ Portfolio code is complete
+✓ All components built and tested
+✓ Responsive design for mobile/tablet/desktop
+✓ Dark/Light theme toggle
+✓ 3D animations and effects
+✓ No API keys or secrets needed
+✓ Production-ready build configuration
+✓ Git repository initialized
+✓ All files committed
+
+================================================================================
+
+
+================================================================================
+                        READY TO DEPLOY! 🚀
+================================================================================
+
+Just follow the 3 steps above and your portfolio will be live!
+
+For more details, see: START_HERE_DEPLOY.md
+
+Good luck! 🎉
+
