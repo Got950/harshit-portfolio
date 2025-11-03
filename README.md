@@ -107,11 +107,20 @@ The site can be deployed to:
 - **Netlify**
 - **GitHub Pages** (with static export)
 
-### Deploy to Vercel
+### 🚀 Quick Deploy to Vercel
 
-1. Push your code to GitHub
-2. Import your repository on [Vercel](https://vercel.com)
-3. Deploy with default settings
+**👉 See `📌_READ_ME_FIRST.txt` for step-by-step deployment instructions!**
+
+Quick steps:
+1. Create a GitHub repository (make it public)
+2. Push your code to GitHub
+3. Import your repository on [Vercel](https://vercel.com)
+4. Deploy with default settings
+
+For detailed instructions, see the deployment guides:
+- `📌_READ_ME_FIRST.txt` - Quick deployment guide
+- `START_HERE_DEPLOY.md` - Comprehensive deployment instructions
+- `QUICK_DEPLOY_GUIDE.md` - Alternative methods
 
 ## License
 
