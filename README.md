@@ -109,7 +109,7 @@ The site can be deployed to:
 
 ### 🚀 Quick Deploy to Vercel
 
-**👉 See `📌_READ_ME_FIRST.txt` for step-by-step deployment instructions!**
+**👉 See `START_HERE.txt` for step-by-step deployment instructions!**
 
 Quick steps:
 1. Create a GitHub repository (make it public)
@@ -118,7 +118,7 @@ Quick steps:
 4. Deploy with default settings
 
 For detailed instructions, see:
-- `📌_READ_ME_FIRST.txt` - Quick deployment guide
+- `START_HERE.txt` - Quick deployment guide
 - `DEPLOYMENT.md` - Comprehensive deployment documentation
 
 ## License
