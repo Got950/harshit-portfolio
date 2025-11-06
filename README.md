@@ -1,17 +1,17 @@
 # Harshit Preetam R - Portfolio Website
 
-A beautiful, futuristic, and professional personal portfolio website built with Next.js, React, Three.js, and Framer Motion.
+A modern and visually immersive personal portfolio website built with Next.js, React, and Three.js.
+Designed to be fast, elegant, and interactive — with smooth animations, 3D visuals, and responsive layouts across all devices.
 
 ## Features
 
-- 🎨 Modern, elegant design with 3D animations and particle effects
-- 🌓 Dark/Light mode toggle
-- 📱 Fully responsive (desktop, tablet, mobile)
-- ⚡ Smooth scrolling transitions and animations
-- 🎯 Interactive 3D hero section with neural network visualization
-- 💫 Glowing cursor trail effect
-- 🎭 Glass morphism effects
-- 🚀 Performance optimized
+- 🎨 Sleek and futuristic design with smooth 3D and motion effects
+- 🌓 Light/Dark theme toggle for better accessibility
+- 📱 Fully responsive across desktop, tablet, and mobile
+- ⚡ Performance-optimized animations and transitions
+- 🎯 Interactive 3D hero section with neural-network visualization
+- 💫 Glowing cursor trail and subtle parallax movement
+- 🎭 Elegant glass-morphism effects throughout the interface
 
 ## Tech Stack
 
