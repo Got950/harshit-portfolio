@@ -12,7 +12,7 @@ const poppins = Poppins({
 
 export const metadata: Metadata = {
   title: 'Harshit Preetam R | AI Engineer Portfolio',
-  description: 'Portfolio of Harshit Preetam R - AI Graduate specializing in NLP, Computer Vision, and Edge AI Deployment',
+  description: 'Portfolio of Harshit Preetam R - AI Graduate specializing in LLMs, RAG, NLP, Computer Vision, and Edge AI Deployment',
 }
 
 export default function RootLayout({

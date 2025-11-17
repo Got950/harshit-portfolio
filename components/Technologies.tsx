@@ -46,6 +46,7 @@ const skills: Skill[] = [
 
 const specializations = [
   'Large Language Models (LLMs)',
+  'Retrieval-Augmented Generation (RAG)',
   'RLHF',
   'NLP',
   'ASR (Speech Recognition)',
@@ -54,6 +55,8 @@ const specializations = [
   'Object Detection and Tracking',
   'Edge AI Deployment',
   'Data Preprocessing and Pipelines',
+  'Vector Databases',
+  'Prompt Engineering',
 ]
 
 export default function Technologies() {
@@ -176,11 +179,16 @@ export default function Technologies() {
                 'Scikit-learn',
                 'Hugging Face',
                 'Sentence Transformers',
+                'LangChain',
+                'LlamaIndex',
+                'ChromaDB',
+                'Pinecone',
                 'YOLOv5/v8',
                 'Mediapipe',
                 'OpenCV',
                 'NLTK',
                 'TextBlob',
+                'Transformers',
               ].map((framework, index) => (
                 <motion.span
                   key={index}

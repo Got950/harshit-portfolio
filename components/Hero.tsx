@@ -81,8 +81,8 @@ export default function Hero() {
               variants={itemVariants}
               className="text-gray-400 mb-8 max-w-xl"
             >
-              Specializing in Large Language Models, Computer Vision, and Edge AI Deployment.
-              Passionate about building intelligent systems that solve real-world problems.
+              Specializing in Large Language Models, Retrieval-Augmented Generation (RAG), Computer Vision, 
+              and Edge AI Deployment. Passionate about building intelligent systems that solve real-world problems.
             </motion.p>
 
             {/* Contact Info */}

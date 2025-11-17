@@ -34,10 +34,22 @@ export default function About() {
             </p>
 
             <p className="text-lg text-gray-300 leading-relaxed mb-6">
-              I specialize in Large Language Models (LLMs), RLHF, NLP, ASR (Speech Recognition), 
-              TTS (Speech Synthesis), Computer Vision, Object Detection and Tracking, and Edge AI 
-              Deployment. My work spans from building facial recognition systems on Raspberry Pi 
-              to developing real-time vehicle classification pipelines using YOLOv8.
+              I specialize in Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), 
+              RLHF, NLP, ASR (Speech Recognition), TTS (Speech Synthesis), Computer Vision, Object 
+              Detection and Tracking, and Edge AI Deployment. My work spans from building facial 
+              recognition systems on Raspberry Pi to developing real-time vehicle classification 
+              pipelines using YOLOv8.
+            </p>
+
+            <p className="text-lg text-gray-300 leading-relaxed mb-6">
+              In the realm of LLMs, I've worked extensively with transformer architectures, fine-tuning 
+              models for domain-specific tasks, and implementing RAG systems that combine retrieval mechanisms 
+              with generative models for enhanced accuracy and context-aware responses. I've built RAG pipelines 
+              using vector databases (like ChromaDB, Pinecone), embedding models (Sentence Transformers, 
+              OpenAI embeddings), and orchestration frameworks (LangChain, LlamaIndex) to create intelligent 
+              question-answering systems and document analysis tools. My experience includes prompt engineering, 
+              chain-of-thought reasoning, and optimizing RAG systems for production deployment with reduced 
+              latency and improved retrieval accuracy.
             </p>
 
             <p className="text-lg text-gray-300 leading-relaxed">

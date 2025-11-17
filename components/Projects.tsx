@@ -16,15 +16,16 @@ interface Project {
 
 const projects: Project[] = [
   {
-    title: 'NFC Payment System',
+    title: 'NFC Payment System with RAG Assistant',
     period: 'Mar 2025 – June 2025',
     description:
-      'Cloud-integrated NFC payment platform with merchant and customer dashboards, real-time wallet sync, and sub-1s latency transactions. Integrated Supabase for scalable storage and an LLM-powered assistant for transaction insights.',
-    technologies: ['Flask', 'SQLite', 'Supabase', 'NFC', 'JS', 'LangChain'],
+      'Cloud-integrated NFC payment platform with merchant and customer dashboards, real-time wallet sync, and sub-1s latency transactions. Integrated Supabase for scalable storage and a RAG-powered AI assistant using LangChain, vector embeddings, and document retrieval for intelligent transaction insights and customer support.',
+    technologies: ['Flask', 'SQLite', 'Supabase', 'NFC', 'JS', 'LangChain', 'RAG', 'Vector DB'],
     achievements: [
       'Sub-1s transaction latency',
       'Real-time wallet synchronization',
-      'LLM-powered transaction insights',
+      'RAG-powered transaction insights with context-aware responses',
+      'Vector-based document retrieval for customer queries',
     ],
   },
   {
