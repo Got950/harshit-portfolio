@@ -43,8 +43,8 @@ export default function About() {
             <p className="text-lg text-gray-300 leading-relaxed">
               Currently working as an AI Intern/Trainee at SSEV SoftSols Pvt Ltd, where I've 
               built production systems achieving 98% recognition accuracy and 95% classification 
-              accuracy. I'm passionate about creating intelligent solutions that bridge the gap 
-              between research and real-world applications.
+              accuracy. As a recent AI graduate, I'm passionate about creating intelligent solutions 
+              that bridge the gap between research and real-world applications.
             </p>
           </div>
         </motion.div>

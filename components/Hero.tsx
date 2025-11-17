@@ -74,7 +74,7 @@ export default function Hero() {
               variants={itemVariants}
               className="text-xl md:text-2xl text-gray-300 mb-6"
             >
-              AI Graduate | NLP & Computer Vision Enthusiast
+              AI Graduate | NLP & Computer Vision Specialist
             </motion.p>
 
             <motion.p

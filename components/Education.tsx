@@ -17,7 +17,7 @@ const education: EducationItem[] = [
     institution: 'Mahindra University',
     degree: 'B.Tech in Artificial Intelligence',
     location: 'Hyderabad, India',
-    period: 'Aug 2021 – Aug 2025',
+    period: 'Aug 2021 – Aug 2024',
     score: 'CGPA: 6.0/10',
   },
   {
