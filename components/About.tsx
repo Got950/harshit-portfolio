@@ -26,7 +26,7 @@ export default function About() {
 
           <div className="glass rounded-2xl p-8 md:p-12">
             <p className="text-lg text-gray-300 leading-relaxed mb-6">
-              AI undergraduate with hands-on experience in Python-based projects focused on NLP 
+              AI graduate with hands-on experience in Python-based projects focused on NLP 
               and computer vision. Experienced with tools like TensorFlow, YOLO, and NLTK. 
               Currently expanding skills in web development and API design to build scalable, 
               real-world applications. Enthusiastic about learning cloud technologies and 
